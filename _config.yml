@@ -11,7 +11,7 @@ title                    : "Haocheng Peng"
 title_separator          : "-"
 name                     : &name "Haocheng Peng"
 description              : &description " "
-url                      : https://HaoChenga.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  "https://HaoChenga.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HaoChenga.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Haocheng Peng"
-  avatar           : "45386391.jpeg"
+  avatar           : "45386391.png"
   #bio              : ""
-  location         : " Zhejiang,china"
+  location         : " Zhejiang, China"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
