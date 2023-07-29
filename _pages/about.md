@@ -1,12 +1,3 @@
----
-permalink: /
-excerpt: "1"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 About me
 ======
 I am now a research assistant in the  College of [Computer Science and Technology](http://www.cs.zju.edu.cn/)，[Zhejiang University](https://www.zju.edu.cn/english/),  affiliated with the [State Key Laboratory of CAD&CG](http://www.cad.zju.edu.cn/index.html) , supervised by [Prof. Zhaopeng Cui](https://zhpcui.github.io/). 
