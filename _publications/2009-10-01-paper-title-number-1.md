@@ -2,7 +2,7 @@
 title: "From Satellite to Ground: Satellite Assisted Visual Localization with Cross-view Semantic Matching"
 #collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-1
-authors:Xiyue Guo, #Haocheng Peng, Junjie Hu, Hujun Bao, Guofeng Zhang
+authors: Xiyue Guo, #Haocheng Peng, Junjie Hu, Hujun Bao, Guofeng Zhang
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
 #venue: 'Journal 1'
